@@ -4,4 +4,5 @@ Rule of the game:
     You need to check again with number smaller than last number.
 2. If your checking number is less than the required number then we will see "Too low!" on the screen.
    You need to check again with number greater than last number.
+   
 On the screen you have highscore and score.
